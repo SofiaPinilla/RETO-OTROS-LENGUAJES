@@ -10,18 +10,18 @@ Trabajaréis en los grupos de la tabla. Cada grupo tiene asignados un lenguaje y
 
 | Grupo | Integrantes | Lenguaje | Reto |
 | --- | --- | --- | --- |
-| 1 | ADRIAN_LAZARO (MDIA) · ANTONIO_NAVARRO (MDES) · JORGE_OLIVER (MDIA) | Java | A — Condicionales |
-| 2 | IGNACIO-PINAZO (MDIA) · CARLOS_GUTIERREZ (MDES) · PABLO_CUNAT (MDIA) | C# | B — Bucles |
-| 3 | ANGEL_CARLOS_PEREZ (MDIA) · DAVID_GALLART (MDES) · LORENZO_SABBATINI (MDIA) | Go | A — Condicionales |
-| 4 | JAVIER_MARTINEZ (MDIA) · IGNACIO_IBÁÑEZ-RIZO (MDES) · RAFA_BROTONS (MDIA) | PHP | B — Bucles |
-| 5 | FRAN_ALAPONT (MDIA) · JAIME_SANFELIX (MDES) · MANOLO_TORTAJADA (MDIA) | C++ | A — Condicionales |
-| 6 | ALEJANDRO-CERVERA (MDIA) · MARIO_GONZALEZ (MDES) · Jana Mei Cervera Monzó (MDIA) | Ruby | B — Bucles |
-| 7 | JADE_LOPEZ (MDIA) · NICO_GOMEZ (MDES) · Laura Soler Úbeda (MDIA) | Kotlin | A — Condicionales |
-| 8 | LOLA_BONET (MDIA) · RAUL_FERRIS (MDES) | Java | B — Bucles |
-| 9 | PABLO_LEGORBURO (MDIA) · RICARDO_ROMAN (MDES) | C# | A — Condicionales |
-| 10 | ANDRES_GIMENO (MDIA) · JOAQUIN_VILLALOBOS (MDIA) · OSCAR_HERREROS (MDIA) | JavaScript | B — Bucles |
-| 11 | CHRISTIAN_VAZQUEZ (MDIA) · JORGE_DURA (MDIA) · LUCAS_OSEJO (MDIA) | PHP | A — Condicionales |
-| 12 | HUGO_GAVILAN (MDIA) · INGRID (MDIA) · JUANJO_PRADES (MDIA) | Go | B — Bucles |
+| 1 | ADRIAN_LAZARO (MDIA) · ANTONIO_NAVARRO (MDES) · JORGE_OLIVER (MDIA) | Java | A - Condicionales |
+| 2 | IGNACIO-PINAZO (MDIA) · CARLOS_GUTIERREZ (MDES) · PABLO_CUNAT (MDIA) | C# | B - Bucles |
+| 3 | ANGEL_CARLOS_PEREZ (MDIA) · DAVID_GALLART (MDES) · LORENZO_SABBATINI (MDIA) | Go | A - Condicionales |
+| 4 | JAVIER_MARTINEZ (MDIA) · IGNACIO_IBÁÑEZ-RIZO (MDES) · RAFA_BROTONS (MDIA) | PHP | B - Bucles |
+| 5 | FRAN_ALAPONT (MDIA) · JAIME_SANFELIX (MDES) · MANOLO_TORTAJADA (MDIA) | C++ | A - Condicionales |
+| 6 | ALEJANDRO-CERVERA (MDIA) · MARIO_GONZALEZ (MDES) · Jana Mei Cervera Monzó (MDIA) | Ruby | B - Bucles |
+| 7 | JADE_LOPEZ (MDIA) · NICO_GOMEZ (MDES) · Laura Soler Úbeda (MDIA) | Kotlin | A - Condicionales |
+| 8 | LOLA_BONET (MDIA) · RAUL_FERRIS (MDES) | Java | B - Bucles |
+| 9 | PABLO_LEGORBURO (MDIA) · RICARDO_ROMAN (MDES) | C# | A - Condicionales |
+| 10 | ANDRES_GIMENO (MDIA) · JOAQUIN_VILLALOBOS (MDIA) · OSCAR_HERREROS (MDIA) | JavaScript | B - Bucles |
+| 11 | CHRISTIAN_VAZQUEZ (MDIA) · JORGE_DURA (MDIA) · LUCAS_OSEJO (MDIA) | PHP | A - Condicionales |
+| 12 | HUGO_GAVILAN (MDIA) · INGRID (MDIA) · JUANJO_PRADES (MDIA) | Go | B - Bucles |
 
 ## Reto A — Condicionales
 
