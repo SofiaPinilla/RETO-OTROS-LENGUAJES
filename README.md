@@ -92,7 +92,6 @@ Podéis consultar documentación, tutoriales o herramientas de IA, pero **todos 
 Responded en vuestro documento:
 
 1. ¿Cómo se declara la variable o el contador?
-2. ¿Cómo se muestra información por consola?
 3. ¿Cómo se delimitan los bloques de código? Comparadlo con la indentación de Python.
 4. ¿Qué símbolos o palabras cambian respecto al ejemplo en Python?
 5. ¿Qué decisiones o repeticiones se mantienen? Explicad el algoritmo en castellano, sin usar código.
